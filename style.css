@@ -719,10 +719,10 @@
         transform: translateY(2px);
       }
     
-      .nav-text {
+      /* .nav-text {
         display: none;
       }
-    
+     */
       .content {
         left: 100px;
         grid-template-columns: 70% 30%;
